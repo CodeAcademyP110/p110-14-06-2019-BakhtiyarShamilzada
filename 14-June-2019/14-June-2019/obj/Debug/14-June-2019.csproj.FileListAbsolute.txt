@@ -1,0 +1,10 @@
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\14-June-2019\14-June-2019\bin\Debug\14-June-2019.exe.config
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\14-June-2019\14-June-2019\bin\Debug\14-June-2019.exe
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\14-June-2019\14-June-2019\bin\Debug\14-June-2019.pdb
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\14-June-2019\14-June-2019\obj\Debug\14-June-2019.csprojAssemblyReference.cache
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\14-June-2019\14-June-2019\obj\Debug\_14_June_2019.Properties.Resources.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\14-June-2019\14-June-2019\obj\Debug\14-June-2019.csproj.GenerateResource.cache
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\14-June-2019\14-June-2019\obj\Debug\14-June-2019.csproj.CoreCompileInputs.cache
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\14-June-2019\14-June-2019\obj\Debug\14-June-2019.exe
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\14-June-2019\14-June-2019\obj\Debug\14-June-2019.pdb
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\14-June-2019\14-June-2019\obj\Debug\_14_June_2019.Form1.resources
